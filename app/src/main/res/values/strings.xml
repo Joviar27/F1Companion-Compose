@@ -1,0 +1,486 @@
+<resources>
+    <string name="app_name">F1Companion</string>
+
+    <string name="app_title">2023 F1 Season Guide</string>
+
+    <string name="icon_favorite_page">Favorite Page</string>
+    <string name="icon_about">About Page</string>
+    <string name="icon_back">Go Back</string>
+    <string name="icon_share">Share Page Link</string>
+    <string name="icon_add_favorite">Add to Favorite</string>
+    <string name="icon_rm_favorite">Remove from Favorite</string>
+
+    <string name="team_photo">Team Photo</string>
+    <string name="first_driver_helmet">First Driver Helmet</string>
+    <string name="second_driver_helmet">Second Driver Helmet</string>
+    <string name="profile_photo">Profile Picture</string>
+
+    <string name="action_share">Share Team Page</string>
+
+    <string name="hint_search">Search F1 Team</string>
+
+    <string name="driver_lineup">Driver Lineup</string>
+    <string name="mini_gallery">Mini Gallery</string>
+
+    <string name="base">Base</string>
+    <string name="team_chief">Team Chief</string>
+    <string name="technical_chief">Technical Chief</string>
+    <string name="chassis">Chassis</string>
+    <string name="first_team_entry">First Team Entry</string>
+    <string name="world_championships">World Championships</string>
+    <string name="highest_race_finish">Highest Race Finish</string>
+    <string name="pole_positions">Pole Positions</string>
+
+    <string name="sample_large">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.\n\nNulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus.\n\nVivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim. Aliquam lorem ante, dapibus in, viverra quis, feugiat a, tellus. Phasellus viverra nulla ut metus varius laoreet. Quisque rutrum. Aenean imperdiet. Etiam ultricies nisi vel augue. Curabitur ullamcorper ultricies nisi. Nam eget dui. Etiam rhoncus. Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque sed ipsum. N</string>
+    <string name="sample_medium">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\n\nDonec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo li</string>
+    <string name="sample_small">Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque.</string>
+    <string name="about">About</string>
+    <string name="creator_name">Joy Vianoktya Aristides</string>
+    <string name="creator_email">joyvianoktya27@gmail.com</string>
+
+    <string-array name="id_team">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="image_thumbnail">
+        <item>https://docs.google.com/uc?id=1POOivPRB9dm1RRkGBfoOMfgAMnqu62UP</item>
+        <item>https://docs.google.com/uc?id=1SmdnNtZ-Rb6OmiwQueXlrh-g1HWKsFmo</item>
+        <item>https://docs.google.com/uc?id=1r3A6xhP_eD2GbZYfQPedMPV1Bd4MJi9n</item>
+        <item>https://docs.google.com/uc?id=1uD9cENLYhYXvxSj_czvmmK6xX4Wp-d0c</item>
+        <item>https://docs.google.com/uc?id=1h93gZaKaerBS9Ce-SVuEPeyFX-V4t358</item>
+        <item>https://docs.google.com/uc?id=1CJvSCM3g6GetUZqgz3t4Fb483c2L2c0a</item>
+        <item>https://docs.google.com/uc?id=10UyI_gy9kkkXw81hOm28MskzAsOqpNnp</item>
+        <item>https://docs.google.com/uc?id=1ta2e7Ssoi07mQr8y3I-HMF9cG-zBoh_9</item>
+        <item>https://docs.google.com/uc?id=1z6dDGfEbyXoa4ShQZD4cpZTYrbw6MORV</item>
+        <item>https://docs.google.com/uc?id=1BIK41Q74gmy6J0_7Z6BkGW9BrNMw7BHV</item>
+    </string-array>
+
+    <string-array name="image_banner">
+        <item>https://docs.google.com/uc?id=10weMifR8kC-3ZuFmzu71jBz_yUPqkaG2</item>
+        <item>https://docs.google.com/uc?id=1MvE7HKnfx4Ikl3bBGNUGLWhPYyasW9lc</item>
+        <item>https://docs.google.com/uc?id=1ElFpIiqHztNn02z48bmZ--rfjOMMiiR6</item>
+        <item>https://docs.google.com/uc?id=1f5v2ymToFDjd5pVhcpmlw-ZRba4yxWKg</item>
+        <item>https://docs.google.com/uc?id=1UcTKPVh3gsSXfmrtBhjKzrfflW1_gGW4</item>
+        <item>https://docs.google.com/uc?id=1J8ITOSEe9B-Xw3GWeFeJLkjOoZbPaGBr</item>
+        <item>https://docs.google.com/uc?id=1kFyUdAmMwK3OwKrOpVR55A_-vsu5FhaB</item>
+        <item>https://docs.google.com/uc?id=1kx9iTzuWy2pPtTXEbcjStzd-QSL05NZB</item>
+        <item>https://docs.google.com/uc?id=1FFughFFl5lj-qFu_7IrrRwkfIYsKMXeQ</item>
+        <item>https://docs.google.com/uc?id=1j0DbtFe3pPHBkBx3rA1PVTYQbr-idYJd</item>
+    </string-array>
+
+    <string-array name="image_header">
+        <item>https://docs.google.com/uc?id=1ZOHCCGaAga_163fTkRXNJSEamIq0PRe7</item>
+        <item>https://docs.google.com/uc?id=1JDu4AsBOJUindfKp437em-uitQKiBA74</item>
+        <item>https://docs.google.com/uc?id=1i4KzzfKRu_HKm6wnqGXBWqDfkPB-rCCb</item>
+        <item>https://docs.google.com/uc?id=1N_bJMM52PvdTNn49BcukXhhMp53G9QzR</item>
+        <item>https://docs.google.com/uc?id=1Bv_-p4KmBFKHezXIU1uWwkHKytFNu1I3</item>
+        <item>https://docs.google.com/uc?id=1GJkern0eA1LSc2YKg70FGf4_tsvPsTmQ</item>
+        <item>https://docs.google.com/uc?id=1VYwJz0F_wihfupF5ZaYnirFiBDN01hSS</item>
+        <item>https://docs.google.com/uc?id=12qdBFBcJGYeVpP2P3eXJlKpxn9NWWcP1</item>
+        <item>https://docs.google.com/uc?id=1Dc4wiai-QPq_cEMiBj1ucIpaaIyu7hg-</item>
+        <item>https://docs.google.com/uc?id=1DbG7A-Z2L88ZnoHzPoBy4yuIBDswLpad</item>
+    </string-array>
+
+    <string-array name="image_driver1">
+        <item>https://docs.google.com/uc?id=1NB0QKSor3Li2kFl4CcJBQFMpvXLkMTEz</item>
+        <item>https://docs.google.com/uc?id=15GJXHiJcWG5yPq8Sy1BGQjeR54Z61B8A</item>
+        <item>https://docs.google.com/uc?id=1NwqQhqatSJFCCteHWHhjVMoz05b25pxc</item>
+        <item>https://docs.google.com/uc?id=1CQNbxRA15mWHxIuY2wZzWmIGzCLmCV9o</item>
+        <item>https://docs.google.com/uc?id=1D5rVpAt4Oy_DXrxMIENNcu7Px7R5-2LL</item>
+        <item>https://docs.google.com/uc?id=1vlZGpYTJzjiDyc39t1s0uixq_2qSKVAV</item>
+        <item>https://docs.google.com/uc?id=16X52NGNTuvkGHggbpAPJVcuI6C5bL2LC</item>
+        <item>https://docs.google.com/uc?id=1JpQ-sw-pE7B_TWzs0KJMgqlnaKhGrRza</item>
+        <item>https://docs.google.com/uc?id=1onWhylsu-6j6F4dTrKmLp2j-USqlhBHj</item>
+        <item>https://docs.google.com/uc?id=1dw3N9LqtVVB_rD-j0dW5U6ZykQ7Xc9gz</item>
+    </string-array>
+
+    <string-array name="image_driver2">
+        <item>https://docs.google.com/uc?id=1UCl2TAmHw7fyA0PUWEkiR8-AETdiFVn4</item>
+        <item>https://docs.google.com/uc?id=1lAcvVFMddxg97KKCiR6uJV7C8nGmt5Jm</item>
+        <item>https://docs.google.com/uc?id=11sEp0NZ6TZTijqogv0gVFpZYcfwCKDH9</item>
+        <item>https://docs.google.com/uc?id=15l4LCsB6DGNpMqsbULINCbpBUwlOko_J</item>
+        <item>https://docs.google.com/uc?id=1jJcXu1zpZYMyeBvQME_wgy3BN8SZDhR4</item>
+        <item>https://docs.google.com/uc?id=1qKKt2KH0GDev8OBMrTVm6FEc2QGZXdgP</item>
+        <item>https://docs.google.com/uc?id=1JF4eRXzXur3D9p1cmlQJSsmxQo0vNDUb</item>
+        <item>https://docs.google.com/uc?id=1BrvVLDpH2edtgcHNsUl6O6ngn3bUYias</item>
+        <item>https://docs.google.com/uc?id=1d1D_NCejTTJ6rjT6FvWtim8o90oMW4tx</item>
+        <item>https://docs.google.com/uc?id=1ap1jjoCVqRjGD4KlkRWe15U_GrIsQD0y</item>
+    </string-array>
+
+    <string-array name="image_pic1">
+        <item>https://docs.google.com/uc?id=1YSshxt4qFCfS5bqvs1EwQmCayZDMHvAI</item>
+        <item>https://docs.google.com/uc?id=1og47D9xThYVE7xA9h9gTvRfDMhfcTWsj</item>
+        <item>https://docs.google.com/uc?id=145fWu5ALBtbG8wPNFwjh9F0tVXFPYS6J</item>
+        <item>https://docs.google.com/uc?id=1wxFZ4SaODdzWArLrGTCmpMjzdKL9o6N_</item>
+        <item>https://docs.google.com/uc?id=1jexfW4OrPCU9vDruBmrTgA5tgZ90yi84</item>
+        <item>https://docs.google.com/uc?id=1AFb12ceP8DxDw4XKqSNj4MOkA01bqS1Y</item>
+        <item>https://docs.google.com/uc?id=1MmyjgWOYXC3R08ccOlJCmYkr575u3y01</item>
+        <item>https://docs.google.com/uc?id=1F4g9UeE03hrMkSjNM6rSuIAYfPjtHxPo</item>
+        <item>https://docs.google.com/uc?id=1aLdn3bbZ7LSm7VbF_sB4qB70XnC59XLa</item>
+        <item>https://docs.google.com/uc?id=1tOgtOTQf8Vx1-_FHU-le35STonio9G-c</item>
+    </string-array>
+
+    <string-array name="image_pic2">
+        <item>https://docs.google.com/uc?id=1XFSsH0_W4o7IbAgjT1ayriphTiHeRxF1</item>
+        <item>https://docs.google.com/uc?id=1kuTkBznn46dasQZAgsAjR-wnmIaXxO7O</item>
+        <item>https://docs.google.com/uc?id=1muZIaXf3R79rABQScFLzdc_0RnpfRiMN</item>
+        <item>https://docs.google.com/uc?id=1gOo2cpcb1pU9n29pdKqkT-fn6ulZzB5r</item>
+        <item>https://docs.google.com/uc?id=18QbiYqzwXFs9WY39jzGZI0r5XSx3EtLC</item>
+        <item>https://docs.google.com/uc?id=1TfugniZkAMqbY9VFb1Zxv1Gjszld0kc3</item>
+        <item>https://docs.google.com/uc?id=1ztxB26bLG4g0mHa0EipC9uhJwQkaKyyj</item>
+        <item>https://docs.google.com/uc?id=1C7melwI-NQuX_tI7aGZYk5NIO_d-D2gp</item>
+        <item>https://docs.google.com/uc?id=18Dhhv9p6q73_NyivLYTnbbnSbXnGLgEC</item>
+        <item>https://docs.google.com/uc?id=1NLv_FYNfQs6ZZ59s4dfjVsEHPdm0TIkw</item>
+    </string-array>
+
+    <string-array name="image_pic3">
+        <item>https://docs.google.com/uc?id=1Bhyf1Pp7BSLBhIH-oHd_KB4ROUnOK0El</item>
+        <item>https://docs.google.com/uc?id=1V_inM_rKIMYejTzAw5REMfbSTjJrw9Au</item>
+        <item>https://docs.google.com/uc?id=1uXTC48qb0-cy3hnfMUaA681JwSLT_4In</item>
+        <item>https://docs.google.com/uc?id=1oJT5M_OeEZ4xPJ_Sg48KmwU-xC_O8gnR</item>
+        <item>https://docs.google.com/uc?id=1A83kwln2y7NGpzFUHx7tNmR8aoP4iB-p</item>
+        <item>https://docs.google.com/uc?id=1ynZ2VNYG9hB9vjtMlTi3LUBsTX2I-W8M</item>
+        <item>https://docs.google.com/uc?id=1vOzdCiLkF5M2HnaO5_Qw97Uv50bGcSkl</item>
+        <item>https://docs.google.com/uc?id=1F_WbrST5yLieGQTYuYQCyNgoIx5bNwpV</item>
+        <item>https://docs.google.com/uc?id=1OZ_SqADoN-szxnTph0ftA4HmkFn1YqBo</item>
+        <item>https://docs.google.com/uc?id=1hS5DOecHdhgFlGE2lfmYMjnmq16pJlPZ</item>
+    </string-array>
+
+    <string-array name="thumbnail_title">
+        <item>Aston Martin</item>
+        <item>Alpine</item>
+        <item>Alfa Romeo</item>
+        <item>Alpha Tauri</item>
+        <item>Ferrari</item>
+        <item>Haas</item>
+        <item>McLaren</item>
+        <item>Mercedes</item>
+        <item>Red Bull</item>
+        <item>Williams</item>
+    </string-array>
+
+    <string-array name="thumbnail_overview">
+        <item>Silverstone-based F1 team debuting in 2021, formerly known as Racing Point. Finished 7th in the 2022 Constructor Championship</item>
+        <item>Enstone-based F1 team debuting in 1986, was formerly known as Renault. Finished  4th in the 2022 Constructor Championship</item>
+        <item>Swiss-based F1 team owned by Sauber Motorsport debuting in 1993. Finished 6th in the 2022 Constructor Championship</item>
+        <item>Faenza-based F1 Team debuting in 1985, was formerly known as Toro Rosso. Finished 9th in the 2022 Constructor Championship</item>
+        <item>The Legendary Maranello-based team that have been in F1 since it’s conception in 1950. Finished 2nd in the 2022 Constructor </item>
+        <item>F1 newest team entry from the United States of America debuting in 2016. Finished 8th in the 2022 Constructor Championship</item>
+        <item>The Woking-based F1 team was founded in 1963 by Bruce McLaren. Finished 5th in the 2022 Constructor Championship</item>
+        <item>The Brackley-based F1 team first debuted in  2010 was formerly known as Brawn GP. Finished 3rd in the 2022 Constructor  </item>
+        <item>The energy drink owned F1 team based in Milton Keynes with their first debut in 2005. The current reigning Constructor Champion</item>
+        <item>Grove-based F1 team founded by Sir Frank Williams and Patrick Head in 1977. Finished 10th in the 2022 Constructor Championship</item>
+    </string-array>
+
+    <string-array name="detail_title">
+        <item>Aston Martin Aramco Cognizant Formula One Team</item>
+        <item>BWT Alpine F1 Team</item>
+        <item>Alfa Romeo F1 Team Stake</item>
+        <item>Scuderia Alpha Tauri</item>
+        <item>Scuderia Ferrari</item>
+        <item>MoneyGram Haas F1 Team</item>
+        <item>McLaren Formula 1 Team</item>
+        <item>Mercedes-AMG PETRONAS Formula One Team</item>
+        <item>Oracle Red Bull Racing</item>
+        <item>Williams Racing</item>
+    </string-array>
+
+    <string-array name="detail_overview">
+        <item>The Aston Martin Formula One Team, formerly known as Racing Point, is a British Formula One racing team based in Silverstone, UK. The team was rebranded as Aston Martin for the 2021 season, following a significant investment from the iconic British luxury carmaker.
+\n\n
+The team has been competing in Formula One since 1991, and has undergone several name changes and ownership transitions over the years. Its current owners include Lawrence Stroll, a Canadian businessman and racing enthusiast.
+\n\n
+Aston Martin Racing has enjoyed significant success in recent years, finishing fourth in the Constructors\' Championship in both 2019 and 2020. The team is known for its strong technical capabilities, and for its ability to maximize the performance of its cars through careful development and refinement.
+</item>
+        <item>Alpine F1 Team is a French Formula One racing team that was originally founded as Renault F1 Team in 1977. The team has a rich history in the sport, having won two Constructors\' Championships and two Drivers\' Championships over the years. The team was rebranded as Alpine F1 Team in 2021, following the renaming of the Renault brand to Alpine.
+\n\n
+The team has also been responsible for several important technical innovations in Formula One, including the use of turbocharged engines and semi-automatic gearboxes.
+\n\n
+Overall, Alpine F1 Team has a proud history in Formula One and has consistently shown itself to be a strong and competitive team. With a renewed focus on innovation and development, and a talented driver lineup, the team is well positioned to continue to make strides in the sport and compete for top honors in the years ahead.</item>
+        <item>Alfa Romeo F1 Team is a Swiss Formula One racing team that is based in Hinwil, Switzerland. The team was originally founded as Sauber Motorsport in 1970 and has competed in Formula One since 1993. The team has had several name changes over the years, including a period when it was known as BMW Sauber.
+\n\n
+Alfa Romeo F1 Team has had a mixed record of success in Formula One, having scored several podium finishes and even a race win in its early years, but has struggled to compete with the top teams in recent seasons. However, the team remains a highly respected and competitive presence in the sport, with a strong focus on technical excellence and driver development.
+\n\n
+Overall, Alfa Romeo F1 Team is a well-established and respected team in Formula One, with a proud history and a bright future ahead of it.</item>
+        <item>Scuderia AlphaTauri is an Italian Formula One racing team that is based in Faenza, Italy. The team was founded in 1985 as Minardi, and has competed in Formula One since 1985. The team has undergone several name changes and ownership changes over the years, and is currently owned by Red Bull.
+\n\n
+Scuderia AlphaTauri is powered by Honda engines and is supported by the Italian fashion brand AlphaTauri. The team is known for its innovative technical designs, having developed several unique features over the years, including a highly successful front wing design in the mid-2000s.
+\n\n
+Scuderia AlphaTauri has had a mixed record of success in Formula One, with occasional podium finishes and a race win in the hands of Sebastian Vettel in 2008. However, the team has struggled to consistently compete with the top teams in recent seasons. Despite this, the team remains a highly respected and competitive presence in the sport, with a strong focus on technical innovation and driver development.</item>
+        <item>Scuderia Ferrari is an Italian Formula One racing team that is based in Maranello, Italy. The team was founded in 1929 by Enzo Ferrari and has competed in Formula One since the championship\'s inception in 1950. Ferrari is the oldest and most successful team in Formula One history, having won 16 Constructors\' Championships and 15 Drivers\' Championships over the years.
+\n\n
+Ferrari is known for its iconic red livery and its passionate fans, known as the "tifosi". The team is powered by Ferrari engines and is supported by a wide range of sponsors and partners. The team\'s drivers for the 2023 season are Charles Leclerc and Carlos Sainz Jr.
+\n\n
+Ferrari has a long history of technical innovation and success in Formula One. The team has been responsible for developing many groundbreaking technologies, including the use of aerodynamics, composite materials, and advanced electronics. Ferrari has also produced some of the sport\'s most legendary drivers, including Michael Schumacher, Niki Lauda, and Juan Manuel Fangio.</item>
+        <item>Haas F1 Team is an American Formula One racing team founded by Gene Haas, the founder of Haas Automation, in 2014. The team made their debut in the 2016 season and is based in Kannapolis, North Carolina, USA, with a European base in Banbury, UK.
+\n\n
+The team\'s first two seasons in Formula One were impressive, finishing 8th in the Constructors\' Championship in both 2016 and 2017. However, the team has struggled in recent years and has finished 9th in the Constructors\' Championship in each of the last three seasons (2018, 2019, and 2020).
+\n\n
+Haas F1 Team uses Ferrari power units and their cars are designed and built by Italian chassis manufacturer Dallara. The team\'s current drivers for the 2021 season are Russian Nikita Mazepin and German Mick Schumacher, the son of seven-time World Champion Michael Schumacher.</item>
+        <item>McLaren F1 Team is a British Formula One racing team based in Woking, Surrey, UK. The team was founded in 1963 by New Zealander Bruce McLaren and has a rich history in Formula One, with 8 Constructors\' Championships and 12 Drivers\' Championships.
+\n\n
+The team has gone through several ownership and management changes over the years and has also competed in other racing series, including Indycar and sports car racing. In recent years, the team has focused solely on Formula One and has made significant progress in its performance.
+\n\n
+McLaren currently uses Mercedes power units and its cars are designed and built in-house. The team\'s current drivers for the 2021 season are British driver Lando Norris and Australian driver Daniel Ricciardo. Ricciardo joined the team for the 2021 season, replacing Spaniard Carlos Sainz, who moved to Ferrari.</item>
+        <item>Mercedes-AMG Petronas Formula One Team is a German-British Formula One racing team and works team of Mercedes-Benz, based in Brackley, UK. The team is currently competing in the FIA Formula One World Championship and has won the Constructors\' Championship for seven consecutive years from 2014 to 2020.
+\n\n
+The Mercedes F1 team has a strong history in Formula One, dating back to the 1950s. However, the team\'s modern era of dominance began in 2014, when the introduction of hybrid engines and new regulations gave Mercedes an advantage over its rivals. Since then, the team has consistently been at the forefront of technological innovation and performance.
+\n\n
+Mercedes is known for its engineering excellence and innovative technical solutions, such as its Dual-Axis Steering (DAS) system, which allows drivers to adjust the toe angle of the front wheels while on track.</item>
+        <item>Red Bull Racing is a Formula One racing team based in Milton Keynes, England. The team is owned by Austrian energy drinks company Red Bull and competes in the FIA Formula One World Championship.
+\n\n
+The team was formed in 2005 following the purchase of the Jaguar Racing team by Red Bull. Since then, Red Bull Racing has become one of the most successful teams in Formula One, winning four consecutive Constructors\' Championships from 2010 to 2013.
+\n\n
+Red Bull Racing is known for its aggressive and innovative approach to racing, with a focus on aerodynamics and driver talent. The team has had a number of notable drivers over the years, including Sebastian Vettel, Daniel Ricciardo, Max Verstappen, and Sergio Perez.
+</item>
+        <item>Williams Racing is a British Formula One racing team based in Grove, Oxfordshire, England. The team was founded in 1977 by Sir Frank Williams and Patrick Head and has been one of the most successful teams in Formula One history, winning nine Constructors\' Championships and seven Drivers\' Championships.
+\n\n
+The team has had a number of notable drivers over the years, including Ayrton Senna, Alain Prost, Damon Hill, and Nigel Mansell. Williams has also been responsible for launching the careers of several young drivers, including Jenson Button and Nico Rosberg.
+\n\n
+In 2021, Williams was purchased by US investment firm Dorilton Capital, signaling a new era for the team. The team is now focused on rebuilding and returning to competitiveness, with the long-term goal of once again challenging for race wins and championships.</item>
+    </string-array>
+
+    <string-array name="detail_team_base">
+        <item>Silverstone, United Kingdom</item>
+        <item>Enstone, United Kingdom</item>
+        <item>Hinwil, Switzerland</item>
+        <item>Faenza, Italy</item>
+        <item>Maranello, Italy</item>
+        <item>Kannapolis, United States</item>
+        <item>Woking, United Kingdom</item>
+        <item>Brackley, United Kingdom</item>
+        <item>Milton Keynes, UK</item>
+        <item>Grove, United Kingdom</item>
+    </string-array>
+
+    <string-array name="detail_team_chief">
+        <item>Mike Krack</item>
+        <item>Otmar Szafneur</item>
+        <item>Alessandro Alunni Bravi</item>
+        <item>Franz Tost</item>
+        <item>Frédéric Vasseur</item>
+        <item>Guenther Steiner</item>
+        <item>Andrea Stella</item>
+        <item>Toto Wolff</item>
+        <item>Christian Horner</item>
+        <item>James Vowles</item>
+    </string-array>
+
+    <string-array name="detail_team_technical">
+        <item>Andrew Green</item>
+        <item>Pat Fry</item>
+        <item>Jan Monchaux</item>
+        <item>Jody Egginton</item>
+        <item>Enrico Cardile</item>
+        <item>Simone Resta</item>
+        <item>James Key</item>
+        <item>Mike Elliott</item>
+        <item>Pierre Waché</item>
+        <item>TBC</item>
+    </string-array>
+
+    <string-array name="detail_team_chassis">
+        <item>AMR23</item>
+        <item>A523</item>
+        <item>C43</item>
+        <item>AT04</item>
+        <item>SF-23</item>
+        <item>VF-23</item>
+        <item>MCL60</item>
+        <item>W14</item>
+        <item>RB19</item>
+        <item>FW45</item>
+    </string-array>
+
+    <string-array name="detail_team_PU">
+        <item>Mercedes</item>
+        <item>Renault</item>
+        <item>Ferrari</item>
+        <item>Honda RBPT</item>
+        <item>Ferrari</item>
+        <item>Ferrari</item>
+        <item>Mercedes</item>
+        <item>Mercedes</item>
+        <item>Honda RBPT</item>
+        <item>Mercedes</item>
+    </string-array>
+
+    <string-array name="detail_team_entry">
+        <item>2018</item>
+        <item>1986</item>
+        <item>1993</item>
+        <item>1985</item>
+        <item>1950</item>
+        <item>2016</item>
+        <item>1966</item>
+        <item>1970</item>
+        <item>1997</item>
+        <item>1978</item>
+    </string-array>
+
+    <string-array name="detail_team_WC">
+        <item>N/A</item>
+        <item>2</item>
+        <item>N/A</item>
+        <item>N/A</item>
+        <item>16</item>
+        <item>N/A</item>
+        <item>8</item>
+        <item>8</item>
+        <item>5</item>
+        <item>9</item>
+    </string-array>
+
+    <string-array name="detail_team_highest">
+        <item>1 (X1)</item>
+        <item>1 (X21)</item>
+        <item>1 (X1)</item>
+        <item>1 (X2)</item>
+        <item>1 (X243)</item>
+        <item>4 (x1)</item>
+        <item>1 (x183)</item>
+        <item>1 (x116)</item>
+        <item>1 (x92)</item>
+        <item>1 (x114)</item>
+    </string-array>
+
+    <string-array name="detail_team_pole">
+        <item>1</item>
+        <item>20</item>
+        <item>1</item>
+        <item>1</item>
+        <item>242</item>
+        <item>1</item>
+        <item>156</item>
+        <item>128</item>
+        <item>81</item>
+        <item>128</item>
+    </string-array>
+
+    <string-array name="detail_team_FL">
+        <item>N/A</item>
+        <item>15</item>
+        <item>6</item>
+        <item>2</item>
+        <item>259</item>
+        <item>2</item>
+        <item>162</item>
+        <item>91</item>
+        <item>84</item>
+        <item>133</item>
+    </string-array>
+
+    <string-array name="detail_driver1_name">
+        <item>Fernando Alonso</item>
+        <item>Esteban Ocon</item>
+        <item>Valtteri Bottas</item>
+        <item>Yuki Tsunoda</item>
+        <item>Charles Lecrerc</item>
+        <item>Kevin Magnussen</item>
+        <item>Lando Norris</item>
+        <item>Lewis Hamilton</item>
+        <item>Max Verstappen</item>
+        <item>Alexander Albon</item>
+    </string-array>
+
+    <string-array name="detail_driver2_name">
+        <item>Lance Stroll</item>
+        <item>Pierre Gasly</item>
+        <item>Zhou Guanyu</item>
+        <item>Nyck De Vries</item>
+        <item>Carlos Sainz</item>
+        <item>Nico Hulkenberg</item>
+        <item>Oscar Piastri</item>
+        <item>George Russell</item>
+        <item>Sergio Perez</item>
+        <item>Logan Sargeant</item>
+    </string-array>
+
+    <string-array name="detail_driver1_overview">
+        <item>Spanish Formula One racing driver who was born on July 29, 1981, in Oviedo, Spain. He has won the Formula One World Championship twice, in 2005 and 2006, and is widely regarded as one of the greatest drivers of his generation.
+\n\n
+Alonso is known for his aggressive driving style, his ability to extract the maximum performance from his car, and his tactical nous. He is widely regarded as one of the most complete racing drivers of his generation, and has a passionate following among motorsport fans around the world.</item>
+        <item>French racing driver who was born on September 17, 1996, in Évreux, France. Ocon joined Force India as a race driver in 2017, and scored his first podium finish at the 2017 Belgian Grand Prix. He then spent a year as a reserve driver for Mercedes in 2019, before returning to racing full-time with Alpine F1 Team in 2020.
+\n\n
+Ocon is known for his aggressive and determined driving style, and is highly regarded for his technical abilities and racecraft. He is seen as one of the rising stars of Formula One and is expected to continue to make an impact in the sport for years to come.</item>
+        <item>Finnish racing driver who was born on August 28, 1989, in Nastola, Finland. Bottas started his racing career in karting before moving up to single-seater racing, competing in various junior categories before making his way to Formula One.
+\n\n
+Bottas made his Formula One debut with Williams in 2013, scoring his first championship points in just his third race. He then signed by Mercedes in 2017, where he has since enjoyed a successful career, finishing as runner-up in the drivers\' championship in 2019 and 2020.</item>
+        <item>Japanese racing driver who was born on May 11, 2000, in Sagamihara, Japan. Tsunoda made his Formula One debut in 2021 with Scuderia AlphaTauri, becoming the first Japanese driver to compete in the sport since Kamui Kobayashi in 2014.
+\n\n
+Before making it to Formula One, Tsunoda competed in the FIA Formula 2 Championship, where he finished third in the 2020 season, winning three races and finishing on the podium nine times.</item>
+        <item>Monégasque racing driver who was born on October 16, 1997, in Monte Carlo, Monaco. Lecrerc won the GP3 Series championship in 2016 and the FIA Formula 2 Championship in 2017.
+\n\n
+Leclerc made his Formula One debut in 2018 with Sauber, before moving to Ferrari the following season. In only his second season, he achieved two pole positions and two race victories, finishing the season in 4th place in the Drivers\' Championship. He also scored a total of seven pole positions in the 2019 and 2020 seasons.</item>
+        <item>Danish racing driver who was born on October 5, 1992, in Roskilde, Denmark. Magnussen began his racing career in karting before moving up to car racing in 2008. He won the Danish Formula Ford Championship in 2008 and the British Formula Three Championship in 2013.
+\n\n
+Magnussen made his Formula One debut with McLaren in 2014, where he finished 2nd place, and went on to score a total of 55 points in his rookie season, finishing 11th in the Drivers\' Championship.</item>
+        <item>British racing driver who was born on November 13, 1999, in Bristol, UK. Norris began his racing career in karting before moving up to car racing in 2015.  Noriss the Formula Renault 2.0 Eurocup championship in 2017 before moving up to Formula 2 in 2018.
+\n\n
+Norris made his Formula One debut with the McLaren team in 2019, alongside then-teammate Carlos Sainz Jr. He had an impressive debut season, scoring a total of 49 points and achieving a best result of 6th place at the Austrian Grand Prix.</item>
+        <item>British racing driver who was born on January 7, 1985, in Stevenage, UK. Hamilton made his Formula One debut with the McLaren team in 2007, alongside then-teammate Fernando Alonso. He had a remarkable debut season, finishing as the runner-up in the Drivers\' Championship and winning four races.
+\n\n
+He has gone on to win a total of seven Drivers\' Championships in his career, tying him with Michael Schumacher for the most championships won by a driver. </item>
+        <item>Dutch racing driver who was born on September 30, 1997, in Hasselt, Belgium. Verstappen began his racing career in karting before moving up to car racing in 2014. He then made his Formula One debut in 2015 with Scuderia Toro Rosso, becoming the youngest driver in Formula One history at the age of 17.
+\n\n
+In 2016, Verstappen was promoted to the Red Bull Racing team, where he has remained ever since. He won his first Grand Prix victory at the 2016 Spanish Grand Prix, becoming the youngest ever driver to win a Grand Prix.</item>
+        <item>Alex Albon is a Thai-British racing driver who was born on March 23, 1996, in London, England. Albon began his racing career in karting before moving up to car racing in 2012.
+\n\n
+He competed in a variety of junior series before making his Formula One debut with Toro Rosso in 2019. He impressed in his rookie season, scoring points in his first three races and finishing the season with 92 points and 8th place in the Drivers\' Championship.   </item>
+    </string-array>
+
+    <string-array name="detail_driver2_overview">
+        <item>Canadian racing driver who was born on October 29, 1998, in Montreal, Canada, and is the son of billionaire businessman Lawrence Stroll. Stroll made his Formula One debut with the Williams team in 2017, becoming the second-youngest driver in the history of the sport at the age of 18.
+\n\n
+Stroll\'s performances have been somewhat inconsistent over the years, with occasional highlights being overshadowed by a string of retirements and low finishes. However, he has shown great potential and has demonstrated his speed and racecraft.</item>
+        <item>French racing driver who was born on February 7, 1996, in Rouen, France. He won the GP2 Series championship in 2016 and made his Formula One debut with Toro Rosso in 2017. In 2018 he was promoted to Red Bulll, but struggled to perform consistently and was demoted back to Toro Rosso later.
+\n\n
+In 2020, Gasly achieved his first Formula One race win at the Italian Grand Prix, becoming the first French driver to win a race since 1996. He finished the season with 75 points and secured 10th place in the drivers\' championship.</item>
+        <item>Chinese racing driver who was born on May 30, 1999, in Shanghai, China. Zhou has been a part of the Alpine F1 Team\'s driver development program since 2019, but signed by Alfa Romeo F1 Team in 2022 as a full time driver.
+\n\n
+Zhou first major success came in the FIA Formula 3 Championship, where he finished as runner-up in 2019. He then moved up to the FIA Formula 2 Championship, where he has been a consistent performer, scoring his first win in the series at the Silverstone Circuit in 2021.</item>
+        <item>Dutch racing driver who formerly competes in the FIA World Endurance Championship and Formula E. He was born on February 6, 1995, in Sneek, Netherlands. He won the 2014 Formula Renault 2.0 Eurocup and the 2019 FIA Formula 2 Championship.
+\n\n
+In 2019, de Vries was signed as a test and reserve driver for the Mercedes-AMG Formula One Team. He remained in that role for the 2020 season, before leaving Mercedes for a Formula E debut in 2021, racing for Mercedes-EQ Formula E Team</item>
+        <item>Spanish racing driver who was born on September 1, 1994, in Madrid, Spain. He made his Formula One debut in 2015 with Scuderia Toro Rosso and later moved to Renault before joining McLaren for the 2019 and 2020 seasons.
+\n\n
+Sainz achieved his first podium finish in Formula One in the 2019 Brazilian Grand Prix and secured his first pole position at the 2021 Monaco Grand Prix. He is also a two-time winner of the Dakar Rally, having won the event in 2010 and 2018.</item>
+        <item>German racing driver who was born on August 19, 1987, in Emmerich am Rhein, Germany. Hulkenberg won the GP2 Series championship in 2009, earning himself a seat in Formula One with the Williams team in 2010.
+\n\n
+Hulkenberg competed in Formula One for various teams throughout his career, including Williams, Force India, Sauber, and Renault. He achieved his first pole position at the 2010 Brazilian Grand Prix and achieved his best result of 4th place in the 2012 Belgian Grand Prix.</item>
+        <item>Australian racing driver who was born on December 6, 2001, in Melbourne, Australia. Piastri began his racing career in karting before moving up to car racing in 2018. He won the Australian Formula 4 Championship in his debut.
+\n\n
+In 2020, Piastri moved up to the FIA Formula 3 Championship and won the championship on his debut season, with 3 wins and 7 podiums in total. Piastri move up to the FIA Formula 2 Championship and also become champion on his debut season.</item>
+        <item>British racing driver who was born on February 15, 1998, in King\'s Lynn, England. Russell won the GP3 Series championship in 2017 and the Formula 2 championship in 2018.
+\n\n
+Russell made his Formula One debut with Williams Racing in 2019. In 2020, Russell was given the opportunity to substitute for Lewis Hamilton at Mercedes for one race at the Sakhir Grand Prix, where he qualified in second place and was on course to win the race before a pit-stop blunder and a puncture caused him to finish in ninth place.</item>
+        <item>Sergio Perez, also known as "Checo", is a Mexican racing driver who was born on January 26, 1990, in Guadalajara, Mexico. He competed in a variety of junior series before making his Formula One debut with Sauber in 2011. In 2012, he achieved his first podium finish at the Malaysian Grand Prix.
+\n\n
+In 2021, Perez joined Red Bull Racing as the teammate of Max Verstappen. He had a slow start to the season, but gradually improved, earning his first win for the team at the Azerbaijan Grand Prix.</item>
+        <item>Logan Sargeant is an American racing driver who was born on December 31, 2000, in Boca Raton, Florida, USA. Sargeant began his racing career in karting before moving up to car racing in 2015, including the USF2000 and the Formula Renault Eurocup
+\n\n
+In 2020, Sargeant raced FIA Formula 3 Championship and finished as the runner-up in the Drivers\' Championship, with three wins and ten podium finishes to his name. He then made the step up to the FIA Formula 2 Championship in 2021, where he is racing for the Charouz Racing System team.</item>
+    </string-array>
+
+    <string-array name="page_link">
+        <item>https://www.formula1.com/en/teams/Aston-Martin.html</item>
+        <item>https://www.formula1.com/en/teams/Alpine.html</item>
+        <item>https://www.formula1.com/en/teams/Alfa-Romeo-Racing.html</item>
+        <item>https://www.formula1.com/en/teams/AlphaTauri.html</item>
+        <item>https://www.formula1.com/en/teams/Ferrari.html</item>
+        <item>https://www.formula1.com/en/teams/Haas-F1-Team.html</item>
+        <item>https://www.formula1.com/en/teams/McLaren.html</item>
+        <item>https://www.formula1.com/en/teams/Mercedes.html</item>
+        <item>https://www.formula1.com/en/teams/Red-Bull-Racing.html</item>
+        <item>https://www.formula1.com/en/teams/Williams.html</item>
+    </string-array>
+</resources>
